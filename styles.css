@@ -1,0 +1,17 @@
+/* .post1, .post2, .post3{
+    border: 10px grey;
+} */
+
+.post1-text2, .post2-text2,.post3-text2 {
+    text-align: justify;
+    padding: 5px;
+}
+
+.post1-tex1{
+    padding: 5px;
+}
+
+
+/* .d-flex, .justify-content-end{
+    gap: 5px;  
+} */
